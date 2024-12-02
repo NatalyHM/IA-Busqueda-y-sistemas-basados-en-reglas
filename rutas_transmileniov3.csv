@@ -1,0 +1,319 @@
+﻿Bus,Tramo,Estación Origen,Estación Destino
+1A,1,Portal Eldorado,Modelia
+1A,2,Modelia,Normandía
+1A,3,Normandía,AV. Rojas - UNISALESIANA
+1A,4,AV. Rojas - UNISALESIANA,El Tiempo - Cámara de Comercio de Bogotá
+1A,5,El Tiempo - Cámara de Comercio de Bogotá,Salitre - El Greco
+1A,6,Salitre - El Greco,CAN
+1A,7,CAN,Gobernación
+1A,8,Gobernación,Quinta Paredes
+1A,9,Quinta Paredes,Corferias
+1A,10,Corferias,Ciudad Universitaria - Lotería de Bogotá
+1A,11,Ciudad Universitaria - Lotería de Bogotá,Concejo de Bogotá
+1A,12,Concejo de Bogotá,Centro Memoria
+1A,13,Centro Memoria,Universidades - City U
+1B,14,Universidades - City U,Centro Memoria
+1B,15,Centro Memoria,Concejo de Bogotá
+1B,16,Concejo de Bogotá,Ciudad Universitaria - Lotería de Bogotá
+1B,17,Ciudad Universitaria - Lotería de Bogotá,Corferias
+1B,18,Corferias,Quinta Paredes
+1B,19,Quinta Paredes,Gobernación
+1B,20,Gobernación,CAN
+1B,21,CAN,Salitre - El Greco
+1B,22,Salitre - El Greco,El Tiempo - Cámara de Comercio de Bogotá
+1B,23,El Tiempo - Cámara de Comercio de Bogotá,AV. Rojas - UNISALESIANA
+1B,24,AV. Rojas - UNISALESIANA,Normandía
+1B,25,Normandía,Modelia
+1B,26,Modelia,Portal Eldorado
+2A,27,Portal 20 de Julio,Country Sur
+2A,28,Country Sur,Avenida 1° de Mayo
+2A,29,Avenida 1° de Mayo,Ciudad Jardín - UAN
+2A,30,Ciudad Jardín - UAN,Policarpa
+2A,31,Policarpa,San Bernardo
+2A,32,San Bernardo,Bicentenario
+2A,33,Bicentenario,San Victorino
+2A,34,San Victorino,Las Nieves
+2A,35,Las Nieves,San Diego
+2A,36,San Diego,Museo Nacional
+2B,37,Museo Nacional,San Diego
+2B,38,San Diego,Las Nieves
+2B,39,Las Nieves,San Victorino
+2B,40,San Victorino,Bicentenario
+2B,41,Bicentenario,San Bernardo
+2B,42,San Bernardo,Policarpa
+2B,43,Policarpa,Ciudad Jardín - UAN
+2B,44,Ciudad Jardín - UAN,Avenida 1° de Mayo
+2B,45,Avenida 1° de Mayo,Country Sur
+2B,46,Country Sur,Portal 20 de Julio
+3A,47,Portal del Tunal,Parque
+3A,48,Parque,Biblioteca
+3A,49,Biblioteca,Santa Lucía
+3A,50,Santa Lucía,Calle 40 S.
+3A,51,Calle 40 S.,Quiroga
+3A,52,Quiroga,Olaya
+3A,53,Olaya,Restrepo
+3A,54,Restrepo,Fucha
+3A,55,Fucha,Nariño
+3A,56,Nariño,Hortúa
+3A,57,Hortúa,Hospital
+3A,58,Hospital,Tercer Milenio
+3A,59,Tercer Milenio,AV. Jiménez
+3A,60,AV. Jiménez,Calle 19
+3A,61,Calle 19,Calle 22
+3A,62,Calle 22,Centro Memoria
+3A,63,Centro Memoria,Concejo de Bogotá
+3A,64,Concejo de Bogotá,Ciudad Universitaria - Lotería de Bogotá
+3A,65,Ciudad Universitaria - Lotería de Bogotá,Recinto Ferial
+3B,66,Recinto Ferial,Ciudad Universitaria - Lotería de Bogotá
+3B,67,Ciudad Universitaria - Lotería de Bogotá,Concejo de Bogotá
+3B,68,Concejo de Bogotá,Centro Memoria
+3B,69,Centro Memoria,Calle 22
+3B,70,Calle 22,Calle 19
+3B,71,Calle 19,AV. Jiménez
+3B,72,AV. Jiménez,Tercer Milenio
+3B,73,Tercer Milenio,Hospital
+3B,74,Hospital,Hortúa
+3B,75,Hortúa,Nariño
+3B,76,Nariño,Fucha
+3B,77,Fucha,Restrepo
+3B,78,Restrepo,Olaya
+3B,79,Olaya,Quiroga
+3B,80,Quiroga,Calle 40 S.
+3B,81,Calle 40 S.,Santa Lucía
+3B,82,Santa Lucía,Biblioteca
+3B,83,Biblioteca,Parque
+3B,84,Parque,Portal del Tunal
+4A,85,Héroes – Gelhada,Polo - Fincomercio
+4A,86,Polo - Fincomercio,Escuela Militar
+4A,87,Escuela Militar,NQS – Calle 75
+4A,88,NQS – Calle 75,AV. Chile
+4A,89,AV. Chile,Simón Bolívar
+4A,90,Simón Bolívar,Coliseo
+4A,91,Coliseo,Campín – Universidad Antonio Nariño
+4A,92,Campín – Universidad Antonio Nariño,Universidad Nacional
+4A,93,Universidad Nacional,Avenida Eldorado
+4A,94,Avenida Eldorado,CAD
+4A,95,CAD,Paloquemao
+4A,96,Paloquemao,Ricaurte
+4A,97,Ricaurte,Comuneros
+4A,98,Comuneros,Santa Isabel
+4A,99,Santa Isabel,SENA
+4A,100,SENA,NQS – CL 30 S.
+4A,101,NQS – CL 30 S.,NQS – CL 38A S.
+4A,102,NQS – CL 38A S.,General Santander
+4A,103,General Santander,Alquería
+4A,104,Alquería,Venecia
+4A,105,Venecia,Sevillana
+4A,106,Sevillana,Madelena
+4A,107,Madelena,Perdomo
+4A,108,Perdomo,Portal del Sur
+4B,109,Portal del Sur,Perdomo
+4B,110,Perdomo,Madelena
+4B,111,Madelena,Sevillana
+4B,112,Sevillana,Venecia
+4B,113,Venecia,Alquería
+4B,114,Alquería,General Santander
+4B,115,General Santander,NQS – CL 38A S.
+4B,116,NQS – CL 38A S.,NQS – CL 30 S.
+4B,117,NQS – CL 30 S.,SENA
+4B,118,SENA,Santa Isabel
+4B,119,Santa Isabel,Comuneros
+4B,120,Comuneros,Ricaurte
+4B,121,Ricaurte,Paloquemao
+4B,122,Paloquemao,CAD
+4B,123,CAD,Avenida Eldorado
+4B,124,Avenida Eldorado,Universidad Nacional
+4B,125,Universidad Nacional,Campín – Universidad Antonio Nariño
+4B,126,Campín – Universidad Antonio Nariño,Coliseo
+4B,127,Coliseo,Simón Bolívar
+4B,128,Simón Bolívar,AV. Chile
+4B,129,AV. Chile,NQS – Calle 75
+4B,130,NQS – Calle 75,Escuela Militar
+4B,131,Escuela Militar,Polo - Fincomercio
+4B,132,Polo - Fincomercio,Héroes – Gelhada
+5A,133,Portal Américas,Biblioteca Tintal
+5A,134,Biblioteca Tintal,Transversal 86
+5A,135,Transversal 86,Banderas
+5A,136,Banderas,Mandalay
+5A,137,Mandalay,AV. Américas - AV. Boyacá
+5A,138,AV. Américas - AV. Boyacá,Marsella
+5A,139,Marsella,Pradera - Plaza Central
+5A,140,Pradera - Plaza Central,Distrito Grafiti
+5A,141,Distrito Grafiti,Puente Aranda
+5A,142,Puente Aranda,Carrera 43 - COMAPAN
+5A,143,Carrera 43 - COMAPAN,Zona Industrial
+5A,144,Zona Industrial,CDS - Carrera 32
+5A,145,CDS - Carrera 32,Ricaurte
+5A,146,Ricaurte,San Facon - KR. 22
+5A,147,San Facon - KR. 22,De La Sabana
+5A,148,De La Sabana,AV. Jiménez
+5A,149,AV. Jiménez,Calle 19
+5A,150,Calle 19,Calle 22
+5B,151,Calle 22,Calle 19
+5B,152,Calle 19,AV. Jiménez
+5B,153,AV. Jiménez,De La Sabana
+5B,154,De La Sabana,San Facon - KR. 22
+5B,155,San Facon - KR. 22,Ricaurte
+5B,156,Ricaurte,CDS - Carrera 32
+5B,157,CDS - Carrera 32,Zona Industrial
+5B,158,Zona Industrial,Carrera 43 - COMAPAN
+5B,159,Carrera 43 - COMAPAN,Puente Aranda
+5B,160,Puente Aranda,Distrito Grafiti
+5B,161,Distrito Grafiti,Pradera - Plaza Central
+5B,162,Pradera - Plaza Central,Marsella
+5B,163,Marsella,AV. Américas - AV. Boyacá
+5B,164,AV. Américas - AV. Boyacá,Mandalay
+5B,165,Mandalay,Banderas
+5B,166,Banderas,Transversal 86
+5B,167,Transversal 86,Biblioteca Tintal
+5B,168,Biblioteca Tintal,Portal Américas
+6A,169,Universidades - City U,Calle 34
+6A,170,Calle 34,Avenida 39
+6A,171,Avenida 39,Calle 45 - American School Way
+6A,172,Calle 45 - American School Way,Calle 57
+6A,173,Calle 57,Flores - Areandina
+6A,174,Flores - Areandina,Calle 76 - San Felipe
+6A,175,Calle 76 - San Felipe,Polo - Fincomercio
+6A,176,Polo - Fincomercio,Escuela Militar
+6A,177,Escuela Militar,Carrera 47
+6A,178,Carrera 47,Carrera 53
+6A,179,Carrera 53,Avenida 68
+6A,180,Avenida 68,Ferias
+6A,181,Ferias,Boyacá
+6A,182,Boyacá,Minuto De Dios
+6A,183,Minuto De Dios,Granja - Carrera 77
+6A,184,Granja - Carrera 77,Avenida Cali
+6A,185,Avenida Cali,Carrera 90
+6A,186,Carrera 90,Quirigua
+6A,187,Quirigua,Portal de la 80
+6B,188,Portal de la 80,Quirigua
+6B,189,Quirigua,Carrera 90
+6B,190,Carrera 90,Avenida Cali
+6B,191,Avenida Cali,Granja - Carrera 77
+6B,192,Granja - Carrera 77,Minuto De Dios
+6B,193,Minuto De Dios,Boyacá
+6B,194,Boyacá,Ferias
+6B,195,Ferias,Avenida 68
+6B,196,Avenida 68,Carrera 53
+6B,197,Carrera 53,Carrera 47
+6B,198,Carrera 47,Escuela Militar
+6B,199,Escuela Militar,Polo - Fincomercio
+6B,200,Polo - Fincomercio,Calle 76 - San Felipe
+6B,201,Calle 76 - San Felipe,Flores - Areandina
+6B,202,Flores - Areandina,Calle 57
+6B,203,Calle 57,Calle 45 - American School Way
+6B,204,Calle 45 - American School Way,Avenida 39
+6B,205,Avenida 39,Calle 34
+6B,206,Calle 34,Universidades - City U
+7A,207,Portal Suba,La Campiña
+7A,208,La Campiña,Suba - TV. 91
+7A,209,Suba - TV. 91,21 Ángeles
+7A,210,21 Ángeles,Gratamira
+7A,211,Gratamira,Suba - AV. Boyacá
+7A,212,Suba - AV. Boyacá,Niza - CL 127
+7A,213,Niza - CL 127,Humedal Córdoba
+7A,214,Humedal Córdoba,Shaio
+7A,215,Shaio,Puentelargo
+7A,216,Puentelargo,Suba - CL 100
+7A,217,Suba - CL 100,Suba - CL 95
+7A,218,Suba - CL 95,Rionegro
+7A,219,Rionegro,San Martín
+7A,220,San Martín,NQS – Calle 75
+7A,221,NQS – Calle 75,Polo - Fincomercio
+7B,222,Polo - Fincomercio,NQS – Calle 75
+7B,223,NQS – Calle 75,San Martín
+7B,224,San Martín,Rionegro
+7B,225,Rionegro,Suba - CL 95
+7B,226,Suba - CL 95,Suba - CL 100
+7B,227,Suba - CL 100,Puentelargo
+7B,228,Puentelargo,Shaio
+7B,229,Shaio,Humedal Córdoba
+7B,230,Humedal Córdoba,Niza - CL 127
+7B,231,Niza - CL 127,Suba - AV. Boyacá
+7B,232,Suba - AV. Boyacá,Gratamira
+7B,233,Gratamira,21 Ángeles
+7B,234,21 Ángeles,Suba - TV. 91
+7B,235,Suba - TV. 91,La Campiña
+7B,236,La Campiña,Portal Suba
+8A,237,Guatoque - Veraguas,Tygua - San José
+8A,238,Tygua - San José,Tercer Milenio
+8A,239,Tercer Milenio,AV. Jiménez
+8A,240,AV. Jiménez,Calle 19
+8A,241,Calle 19,Calle 22
+8A,242,Calle 22,Calle 34
+8A,243,Calle 34,Avenida 39
+8A,244,Avenida 39,Calle 45 - American School Way
+8A,245,Calle 45 - American School Way,Calle 57
+8A,246,Calle 57,Flores - Areandina
+8A,247,Flores - Areandina,Calle 76 - San Felipe
+8A,248,Calle 76 - San Felipe,Héroes – Gelhada
+8A,249,Héroes – Gelhada,Calle 85
+8A,250,Calle 85,Virrey
+8A,251,Virrey,Calle 100
+8A,252,Calle 100,Calle 106
+8A,253,Calle 106,Pepe Sierra
+8A,254,Pepe Sierra,Calle 127
+8A,255,Calle 127,Prado
+8A,256,Prado,Alcalá
+8A,257,Alcalá,Calle 142
+8A,258,Calle 142,Calle 146
+8A,259,Calle 146,Mazurén
+8A,260,Mazurén,Calle 161
+8A,261,Calle 161,Toberín
+8A,262,Toberín,Portal del Norte
+8A,263,Portal del Norte,Calle 187
+8A,264,Calle 187,Terminal
+8B,265,Terminal,Calle 187
+8B,266,Calle 187,Portal del Norte
+8B,267,Portal del Norte,Toberín
+8B,268,Toberín,Calle 161
+8B,269,Calle 161,Mazurén
+8B,270,Mazurén,Calle 146
+8B,271,Calle 146,Calle 142
+8B,272,Calle 142,Alcalá
+8B,273,Alcalá,Prado
+8B,274,Prado,Calle 127
+8B,275,Calle 127,Pepe Sierra
+8B,276,Pepe Sierra,Calle 106
+8B,277,Calle 106,Calle 100
+8B,278,Calle 100,Virrey
+8B,279,Virrey,Calle 85
+8B,280,Calle 85,Héroes – Gelhada
+8B,281,Héroes – Gelhada,Calle 76 - San Felipe
+8B,282,Calle 76 - San Felipe,Flores - Areandina
+8B,283,Flores - Areandina,Calle 57
+8B,284,Calle 57,Calle 45 - American School Way
+8B,285,Calle 45 - American School Way,Avenida 39
+8B,286,Avenida 39,Calle 34
+8B,287,Calle 34,Calle 22
+8B,288,Calle 22,Calle 19
+8B,289,Calle 19,AV. Jiménez
+8B,290,AV. Jiménez,Tercer Milenio
+8B,291,Tercer Milenio,Tygua - San José
+8B,292,Tygua - San José,Guatoque - Veraguas
+B10A,293,Portal de la 80,Carrera 90
+B10A,294,Carrera 90,Avenida Cali
+B10A,295,Avenida Cali,Granja - Carrera 77
+B10A,296,Granja - Carrera 77,Boyacá
+B10A,297,Boyacá,Avenida 68
+B10A,298,Avenida 68,Carrera 53
+B10A,299,Carrera 53,Carrera 47
+B10A,300,Carrera 47,Calle 85
+B10A,301,Calle 85,Calle 100
+B10A,302,Calle 100,Alcalá
+B10A,303,Alcalá,Calle 146
+B10A,304,Calle 146,Toberín
+B10A,305,Toberín,Portal del Norte
+B10B,306,Portal del Norte,Toberín
+B10B,307,Toberín,Calle 146
+B10B,308,Calle 146,Alcalá
+B10B,309,Alcalá,Calle 100
+B10B,310,Calle 100,Calle 85
+B10B,311,Calle 85,Carrera 47
+B10B,312,Carrera 47,Carrera 53
+B10B,313,Carrera 53,Avenida 68
+B10B,314,Avenida 68,Boyacá
+B10B,315,Boyacá,Granja - Carrera 77
+B10B,316,Granja - Carrera 77,Avenida Cali
+B10B,317,Avenida Cali,Carrera 90
+B10B,318,Carrera 90,Portal de la 80

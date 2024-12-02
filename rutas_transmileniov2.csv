@@ -1,0 +1,319 @@
+﻿Estación Origen,Estación Destino,Ruta,Tipo de Recorrido
+Portal Eldorado,Modelia,1,Ida
+Modelia,Normandía,1,Ida
+Normandía,AV. Rojas - UNISALESIANA,1,Ida
+AV. Rojas - UNISALESIANA,El Tiempo - Cámara de Comercio de Bogotá,1,Ida
+El Tiempo - Cámara de Comercio de Bogotá,Salitre - El Greco,1,Ida
+Salitre - El Greco,CAN,1,Ida
+CAN,Gobernación,1,Ida
+Gobernación,Quinta Paredes,1,Ida
+Quinta Paredes,Corferias,1,Ida
+Corferias,Ciudad Universitaria - Lotería de Bogotá,1,Ida
+Ciudad Universitaria - Lotería de Bogotá,Concejo de Bogotá,1,Ida
+Concejo de Bogotá,Centro Memoria,1,Ida
+Centro Memoria,Universidades - City U,1,Ida
+Universidades - City U,Centro Memoria,1,Vuelta
+Centro Memoria,Concejo de Bogotá,1,Vuelta
+Concejo de Bogotá,Ciudad Universitaria - Lotería de Bogotá,1,Vuelta
+Ciudad Universitaria - Lotería de Bogotá,Corferias,1,Vuelta
+Corferias,Quinta Paredes,1,Vuelta
+Quinta Paredes,Gobernación,1,Vuelta
+Gobernación,CAN,1,Vuelta
+CAN,Salitre - El Greco,1,Vuelta
+Salitre - El Greco,El Tiempo - Cámara de Comercio de Bogotá,1,Vuelta
+El Tiempo - Cámara de Comercio de Bogotá,AV. Rojas - UNISALESIANA,1,Vuelta
+AV. Rojas - UNISALESIANA,Normandía,1,Vuelta
+Normandía,Modelia,1,Vuelta
+Modelia,Portal Eldorado,1,Vuelta
+Portal 20 de Julio,Country Sur,2,Ida
+Country Sur,Avenida 1° de Mayo,2,Ida
+Avenida 1° de Mayo,Ciudad Jardín - UAN,2,Ida
+Ciudad Jardín - UAN,Policarpa,2,Ida
+Policarpa,San Bernardo,2,Ida
+San Bernardo,Bicentenario,2,Ida
+Bicentenario,San Victorino,2,Ida
+San Victorino,Las Nieves,2,Ida
+Las Nieves,San Diego,2,Ida
+San Diego,Museo Nacional,2,Ida
+Museo Nacional,San Diego,2,Vuelta
+San Diego,Las Nieves,2,Vuelta
+Las Nieves,San Victorino,2,Vuelta
+San Victorino,Bicentenario,2,Vuelta
+Bicentenario,San Bernardo,2,Vuelta
+San Bernardo,Policarpa,2,Vuelta
+Policarpa,Ciudad Jardín - UAN,2,Vuelta
+Ciudad Jardín - UAN,Avenida 1° de Mayo,2,Vuelta
+Avenida 1° de Mayo,Country Sur,2,Vuelta
+Country Sur,Portal 20 de Julio,2,Vuelta
+Portal del Tunal,Parque,3,Ida
+Parque,Biblioteca,3,Ida
+Biblioteca,Santa Lucía,3,Ida
+Santa Lucía,Calle 40 S.,3,Ida
+Calle 40 S.,Quiroga,3,Ida
+Quiroga,Olaya,3,Ida
+Olaya,Restrepo,3,Ida
+Restrepo,Fucha,3,Ida
+Fucha,Nariño,3,Ida
+Nariño,Hortúa,3,Ida
+Hortúa,Hospital,3,Ida
+Hospital,Tercer Milenio,3,Ida
+Tercer Milenio,AV. Jiménez,3,Ida
+AV. Jiménez,Calle 19,3,Ida
+Calle 19,Calle 22,3,Ida
+Calle 22,Centro Memoria,3,Ida
+Centro Memoria,Concejo de Bogotá,3,Ida
+Concejo de Bogotá,Ciudad Universitaria - Lotería de Bogotá,3,Ida
+Ciudad Universitaria - Lotería de Bogotá,Recinto Ferial,3,Ida
+Recinto Ferial,Ciudad Universitaria - Lotería de Bogotá,3,Vuelta
+Ciudad Universitaria - Lotería de Bogotá,Concejo de Bogotá,3,Vuelta
+Concejo de Bogotá,Centro Memoria,3,Vuelta
+Centro Memoria,Calle 22,3,Vuelta
+Calle 22,Calle 19,3,Vuelta
+Calle 19,AV. Jiménez,3,Vuelta
+AV. Jiménez,Tercer Milenio,3,Vuelta
+Tercer Milenio,Hospital,3,Vuelta
+Hospital,Hortúa,3,Vuelta
+Hortúa,Nariño,3,Vuelta
+Nariño,Fucha,3,Vuelta
+Fucha,Restrepo,3,Vuelta
+Restrepo,Olaya,3,Vuelta
+Olaya,Quiroga,3,Vuelta
+Quiroga,Calle 40 S.,3,Vuelta
+Calle 40 S.,Santa Lucía,3,Vuelta
+Santa Lucía,Biblioteca,3,Vuelta
+Biblioteca,Parque,3,Vuelta
+Parque,Portal del Tunal,3,Vuelta
+Héroes – Gelhada,Polo - Fincomercio,4,Ida
+Polo - Fincomercio,Escuela Militar,4,Ida
+Escuela Militar,NQS – Calle 75,4,Ida
+NQS – Calle 75,AV. Chile,4,Ida
+AV. Chile,Simón Bolívar,4,Ida
+Simón Bolívar,Coliseo,4,Ida
+Coliseo,Campín – Universidad Antonio Nariño,4,Ida
+Campín – Universidad Antonio Nariño,Universidad Nacional,4,Ida
+Universidad Nacional,Avenida Eldorado,4,Ida
+Avenida Eldorado,CAD,4,Ida
+CAD,Paloquemao,4,Ida
+Paloquemao,Ricaurte,4,Ida
+Ricaurte,Comuneros,4,Ida
+Comuneros,Santa Isabel,4,Ida
+Santa Isabel,SENA,4,Ida
+SENA,NQS – CL 30 S.,4,Ida
+NQS – CL 30 S.,NQS – CL 38A S.,4,Ida
+NQS – CL 38A S.,General Santander,4,Ida
+General Santander,Alquería,4,Ida
+Alquería,Venecia,4,Ida
+Venecia,Sevillana,4,Ida
+Sevillana,Madelena,4,Ida
+Madelena,Perdomo,4,Ida
+Perdomo,Portal del Sur,4,Ida
+Portal del Sur,Perdomo,4,Vuelta
+Perdomo,Madelena,4,Vuelta
+Madelena,Sevillana,4,Vuelta
+Sevillana,Venecia,4,Vuelta
+Venecia,Alquería,4,Vuelta
+Alquería,General Santander,4,Vuelta
+General Santander,NQS – CL 38A S.,4,Vuelta
+NQS – CL 38A S.,NQS – CL 30 S.,4,Vuelta
+NQS – CL 30 S.,SENA,4,Vuelta
+SENA,Santa Isabel,4,Vuelta
+Santa Isabel,Comuneros,4,Vuelta
+Comuneros,Ricaurte,4,Vuelta
+Ricaurte,Paloquemao,4,Vuelta
+Paloquemao,CAD,4,Vuelta
+CAD,Avenida Eldorado,4,Vuelta
+Avenida Eldorado,Universidad Nacional,4,Vuelta
+Universidad Nacional,Campín – Universidad Antonio Nariño,4,Vuelta
+Campín – Universidad Antonio Nariño,Coliseo,4,Vuelta
+Coliseo,Simón Bolívar,4,Vuelta
+Simón Bolívar,AV. Chile,4,Vuelta
+AV. Chile,NQS – Calle 75,4,Vuelta
+NQS – Calle 75,Escuela Militar,4,Vuelta
+Escuela Militar,Polo - Fincomercio,4,Vuelta
+Polo - Fincomercio,Héroes – Gelhada,4,Vuelta
+Portal Américas,Biblioteca Tintal,5,Ida
+Biblioteca Tintal,Transversal 86,5,Ida
+Transversal 86,Banderas,5,Ida
+Banderas,Mandalay,5,Ida
+Mandalay,AV. Américas - AV. Boyacá,5,Ida
+AV. Américas - AV. Boyacá,Marsella,5,Ida
+Marsella,Pradera - Plaza Central,5,Ida
+Pradera - Plaza Central,Distrito Grafiti,5,Ida
+Distrito Grafiti,Puente Aranda,5,Ida
+Puente Aranda,Carrera 43 - COMAPAN,5,Ida
+Carrera 43 - COMAPAN,Zona Industrial,5,Ida
+Zona Industrial,CDS - Carrera 32,5,Ida
+CDS - Carrera 32,Ricaurte,5,Ida
+Ricaurte,San Facon - KR. 22,5,Ida
+San Facon - KR. 22,De La Sabana,5,Ida
+De La Sabana,AV. Jiménez,5,Ida
+AV. Jiménez,Calle 19,5,Ida
+Calle 19,Calle 22,5,Ida
+Calle 22,Calle 19,5,Vuelta
+Calle 19,AV. Jiménez,5,Vuelta
+AV. Jiménez,De La Sabana,5,Vuelta
+De La Sabana,San Facon - KR. 22,5,Vuelta
+San Facon - KR. 22,Ricaurte,5,Vuelta
+Ricaurte,CDS - Carrera 32,5,Vuelta
+CDS - Carrera 32,Zona Industrial,5,Vuelta
+Zona Industrial,Carrera 43 - COMAPAN,5,Vuelta
+Carrera 43 - COMAPAN,Puente Aranda,5,Vuelta
+Puente Aranda,Distrito Grafiti,5,Vuelta
+Distrito Grafiti,Pradera - Plaza Central,5,Vuelta
+Pradera - Plaza Central,Marsella,5,Vuelta
+Marsella,AV. Américas - AV. Boyacá,5,Vuelta
+AV. Américas - AV. Boyacá,Mandalay,5,Vuelta
+Mandalay,Banderas,5,Vuelta
+Banderas,Transversal 86,5,Vuelta
+Transversal 86,Biblioteca Tintal,5,Vuelta
+Biblioteca Tintal,Portal Américas,5,Vuelta
+Universidades - City U,Calle 34,6,Ida
+Calle 34,Avenida 39,6,Ida
+Avenida 39,Calle 45 - American School Way,6,Ida
+Calle 45 - American School Way,Calle 57,6,Ida
+Calle 57,Flores - Areandina,6,Ida
+Flores - Areandina,Calle 76 - San Felipe,6,Ida
+Calle 76 - San Felipe,Polo - Fincomercio,6,Ida
+Polo - Fincomercio,Escuela Militar,6,Ida
+Escuela Militar,Carrera 47,6,Ida
+Carrera 47,Carrera 53,6,Ida
+Carrera 53,Avenida 68,6,Ida
+Avenida 68,Ferias,6,Ida
+Ferias,Boyacá,6,Ida
+Boyacá,Minuto De Dios,6,Ida
+Minuto De Dios,Granja - Carrera 77,6,Ida
+Granja - Carrera 77,Avenida Cali,6,Ida
+Avenida Cali,Carrera 90,6,Ida
+Carrera 90,Quirigua,6,Ida
+Quirigua,Portal de la 80,6,Ida
+Portal de la 80,Quirigua,6,Vuelta
+Quirigua,Carrera 90,6,Vuelta
+Carrera 90,Avenida Cali,6,Vuelta
+Avenida Cali,Granja - Carrera 77,6,Vuelta
+Granja - Carrera 77,Minuto De Dios,6,Vuelta
+Minuto De Dios,Boyacá,6,Vuelta
+Boyacá,Ferias,6,Vuelta
+Ferias,Avenida 68,6,Vuelta
+Avenida 68,Carrera 53,6,Vuelta
+Carrera 53,Carrera 47,6,Vuelta
+Carrera 47,Escuela Militar,6,Vuelta
+Escuela Militar,Polo - Fincomercio,6,Vuelta
+Polo - Fincomercio,Calle 76 - San Felipe,6,Vuelta
+Calle 76 - San Felipe,Flores - Areandina,6,Vuelta
+Flores - Areandina,Calle 57,6,Vuelta
+Calle 57,Calle 45 - American School Way,6,Vuelta
+Calle 45 - American School Way,Avenida 39,6,Vuelta
+Avenida 39,Calle 34,6,Vuelta
+Calle 34,Universidades - City U,6,Vuelta
+Portal Suba,La Campiña,7,Ida
+La Campiña,Suba - TV. 91,7,Ida
+Suba - TV. 91,21 Ángeles,7,Ida
+21 Ángeles,Gratamira,7,Ida
+Gratamira,Suba - AV. Boyacá,7,Ida
+Suba - AV. Boyacá,Niza - CL 127,7,Ida
+Niza - CL 127,Humedal Córdoba,7,Ida
+Humedal Córdoba,Shaio,7,Ida
+Shaio,Puentelargo,7,Ida
+Puentelargo,Suba - CL 100,7,Ida
+Suba - CL 100,Suba - CL 95,7,Ida
+Suba - CL 95,Rionegro,7,Ida
+Rionegro,San Martín,7,Ida
+San Martín,NQS – Calle 75,7,Ida
+NQS – Calle 75,Polo - Fincomercio,7,Ida
+Polo - Fincomercio,NQS – Calle 75,7,Vuelta
+NQS – Calle 75,San Martín,7,Vuelta
+San Martín,Rionegro,7,Vuelta
+Rionegro,Suba - CL 95,7,Vuelta
+Suba - CL 95,Suba - CL 100,7,Vuelta
+Suba - CL 100,Puentelargo,7,Vuelta
+Puentelargo,Shaio,7,Vuelta
+Shaio,Humedal Córdoba,7,Vuelta
+Humedal Córdoba,Niza - CL 127,7,Vuelta
+Niza - CL 127,Suba - AV. Boyacá,7,Vuelta
+Suba - AV. Boyacá,Gratamira,7,Vuelta
+Gratamira,21 Ángeles,7,Vuelta
+21 Ángeles,Suba - TV. 91,7,Vuelta
+Suba - TV. 91,La Campiña,7,Vuelta
+La Campiña,Portal Suba,7,Vuelta
+Guatoque - Veraguas,Tygua - San José,8,Sur-Norte
+Tygua - San José,Tercer Milenio,8,Sur-Norte
+Tercer Milenio,AV. Jiménez,8,Sur-Norte
+AV. Jiménez,Calle 19,8,Sur-Norte
+Calle 19,Calle 22,8,Sur-Norte
+Calle 22,Calle 34,8,Sur-Norte
+Calle 34,Avenida 39,8,Sur-Norte
+Avenida 39,Calle 45 - American School Way,8,Sur-Norte
+Calle 45 - American School Way,Calle 57,8,Sur-Norte
+Calle 57,Flores - Areandina,8,Sur-Norte
+Flores - Areandina,Calle 76 - San Felipe,8,Sur-Norte
+Calle 76 - San Felipe,Héroes – Gelhada,8,Sur-Norte
+Héroes – Gelhada,Calle 85,8,Sur-Norte
+Calle 85,Virrey,8,Sur-Norte
+Virrey,Calle 100,8,Sur-Norte
+Calle 100,Calle 106,8,Sur-Norte
+Calle 106,Pepe Sierra,8,Sur-Norte
+Pepe Sierra,Calle 127,8,Sur-Norte
+Calle 127,Prado,8,Sur-Norte
+Prado,Alcalá,8,Sur-Norte
+Alcalá,Calle 142,8,Sur-Norte
+Calle 142,Calle 146,8,Sur-Norte
+Calle 146,Mazurén,8,Sur-Norte
+Mazurén,Calle 161,8,Sur-Norte
+Calle 161,Toberín,8,Sur-Norte
+Toberín,Portal del Norte,8,Sur-Norte
+Portal del Norte,Calle 187,8,Sur-Norte
+Calle 187,Terminal,8,Sur-Norte
+Terminal,Calle 187,8,Norte-Sur
+Calle 187,Portal del Norte,8,Norte-Sur
+Portal del Norte,Toberín,8,Norte-Sur
+Toberín,Calle 161,8,Norte-Sur
+Calle 161,Mazurén,8,Norte-Sur
+Mazurén,Calle 146,8,Norte-Sur
+Calle 146,Calle 142,8,Norte-Sur
+Calle 142,Alcalá,8,Norte-Sur
+Alcalá,Prado,8,Norte-Sur
+Prado,Calle 127,8,Norte-Sur
+Calle 127,Pepe Sierra,8,Norte-Sur
+Pepe Sierra,Calle 106,8,Norte-Sur
+Calle 106,Calle 100,8,Norte-Sur
+Calle 100,Virrey,8,Norte-Sur
+Virrey,Calle 85,8,Norte-Sur
+Calle 85,Héroes – Gelhada,8,Norte-Sur
+Héroes – Gelhada,Calle 76 - San Felipe,8,Norte-Sur
+Calle 76 - San Felipe,Flores - Areandina,8,Norte-Sur
+Flores - Areandina,Calle 57,8,Norte-Sur
+Calle 57,Calle 45 - American School Way,8,Norte-Sur
+Calle 45 - American School Way,Avenida 39,8,Norte-Sur
+Avenida 39,Calle 34,8,Norte-Sur
+Calle 34,Calle 22,8,Norte-Sur
+Calle 22,Calle 19,8,Norte-Sur
+Calle 19,AV. Jiménez,8,Norte-Sur
+AV. Jiménez,Tercer Milenio,8,Norte-Sur
+Tercer Milenio,Tygua - San José,8,Norte-Sur
+Tygua - San José,Guatoque - Veraguas,8,Norte-Sur
+Portal de la 80,Carrera 90,B10,Occidente-Norte
+Carrera 90,Avenida Cali,B10,Occidente-Norte
+Avenida Cali,Granja - Carrera 77,B10,Occidente-Norte
+Granja - Carrera 77,Boyacá,B10,Occidente-Norte
+Boyacá,Avenida 68,B10,Occidente-Norte
+Avenida 68,Carrera 53,B10,Occidente-Norte
+Carrera 53,Carrera 47,B10,Occidente-Norte
+Carrera 47,Calle 85,B10,Occidente-Norte
+Calle 85,Calle 100,B10,Occidente-Norte
+Calle 100,Alcalá,B10,Occidente-Norte
+Alcalá,Calle 146,B10,Occidente-Norte
+Calle 146,Toberín,B10,Occidente-Norte
+Toberín,Portal del Norte,B10,Occidente-Norte
+Portal del Norte,Toberín,B10,Norte-Occidente
+Toberín,Calle 146,B10,Norte-Occidente
+Calle 146,Alcalá,B10,Norte-Occidente
+Alcalá,Calle 100,B10,Norte-Occidente
+Calle 100,Calle 85,B10,Norte-Occidente
+Calle 85,Carrera 47,B10,Norte-Occidente
+Carrera 47,Carrera 53,B10,Norte-Occidente
+Carrera 53,Avenida 68,B10,Norte-Occidente
+Avenida 68,Boyacá,B10,Norte-Occidente
+Boyacá,Granja - Carrera 77,B10,Norte-Occidente
+Granja - Carrera 77,Avenida Cali,B10,Norte-Occidente
+Avenida Cali,Carrera 90,B10,Norte-Occidente
+Carrera 90,Portal de la 80,B10,Norte-Occidente
